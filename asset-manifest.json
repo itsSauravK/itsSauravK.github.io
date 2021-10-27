@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/itsSauravK/itsSauravK.github.io/static/css/main.3b025c3d.chunk.css",
-    "main.js": "/itsSauravK/itsSauravK.github.io/static/js/main.2db738ce.chunk.js",
-    "main.js.map": "/itsSauravK/itsSauravK.github.io/static/js/main.2db738ce.chunk.js.map",
-    "runtime-main.js": "/itsSauravK/itsSauravK.github.io/static/js/runtime-main.6e5c8e16.js",
-    "runtime-main.js.map": "/itsSauravK/itsSauravK.github.io/static/js/runtime-main.6e5c8e16.js.map",
-    "static/js/2.07063e1b.chunk.js": "/itsSauravK/itsSauravK.github.io/static/js/2.07063e1b.chunk.js",
-    "static/js/2.07063e1b.chunk.js.map": "/itsSauravK/itsSauravK.github.io/static/js/2.07063e1b.chunk.js.map",
-    "index.html": "/itsSauravK/itsSauravK.github.io/index.html",
-    "static/css/main.3b025c3d.chunk.css.map": "/itsSauravK/itsSauravK.github.io/static/css/main.3b025c3d.chunk.css.map",
-    "static/js/2.07063e1b.chunk.js.LICENSE.txt": "/itsSauravK/itsSauravK.github.io/static/js/2.07063e1b.chunk.js.LICENSE.txt",
-    "static/media/homepagefinal.d35ca78d.jpeg": "/itsSauravK/itsSauravK.github.io/static/media/homepagefinal.d35ca78d.jpeg",
-    "static/media/profile.0340a35d.jpg": "/itsSauravK/itsSauravK.github.io/static/media/profile.0340a35d.jpg"
+    "main.css": "/itsSauravK.github.io/static/css/main.3b025c3d.chunk.css",
+    "main.js": "/itsSauravK.github.io/static/js/main.2db738ce.chunk.js",
+    "main.js.map": "/itsSauravK.github.io/static/js/main.2db738ce.chunk.js.map",
+    "runtime-main.js": "/itsSauravK.github.io/static/js/runtime-main.f3dd6741.js",
+    "runtime-main.js.map": "/itsSauravK.github.io/static/js/runtime-main.f3dd6741.js.map",
+    "static/js/2.07063e1b.chunk.js": "/itsSauravK.github.io/static/js/2.07063e1b.chunk.js",
+    "static/js/2.07063e1b.chunk.js.map": "/itsSauravK.github.io/static/js/2.07063e1b.chunk.js.map",
+    "index.html": "/itsSauravK.github.io/index.html",
+    "static/css/main.3b025c3d.chunk.css.map": "/itsSauravK.github.io/static/css/main.3b025c3d.chunk.css.map",
+    "static/js/2.07063e1b.chunk.js.LICENSE.txt": "/itsSauravK.github.io/static/js/2.07063e1b.chunk.js.LICENSE.txt",
+    "static/media/homepagefinal.d35ca78d.jpeg": "/itsSauravK.github.io/static/media/homepagefinal.d35ca78d.jpeg",
+    "static/media/profile.0340a35d.jpg": "/itsSauravK.github.io/static/media/profile.0340a35d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e5c8e16.js",
+    "static/js/runtime-main.f3dd6741.js",
     "static/js/2.07063e1b.chunk.js",
     "static/css/main.3b025c3d.chunk.css",
     "static/js/main.2db738ce.chunk.js"

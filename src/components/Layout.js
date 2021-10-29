@@ -79,7 +79,7 @@ function Layout({ children }) {
       >
         <Toolbar
           sx={{
-            width: { sm: `calc(100% - ${drawerWidth}px)` },
+            width: { sm: `calc(100% - ${drawerWidth}px)` },  //To prevent overlapping of content when screen is small 
             display: { xs: "block", sm: "none" },
           }}
         />

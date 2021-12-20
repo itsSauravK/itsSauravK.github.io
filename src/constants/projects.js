@@ -40,9 +40,9 @@ export const projects = [
     {
       title: "E-Commerce Webiste",
       details:
-        "A full stack E-Commerce website where users can search, filter, review products and add it to cart. It will have user and admin panel and a payment gateway(Ongoing)",
+        "A full stack E-Commerce website where users can search, filter, review products and add it to cart. It has a user and admin panel and a payment gateway",
       category: "Web Development",
-      url: "https://github.com/itsSauravK/E-Commerce-Mern",
+      url: "",
       id: "E-Commerce Website",
       technologies: [
           "NodeJS",

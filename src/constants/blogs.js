@@ -92,5 +92,19 @@ export const blogs = [
             "getting-started"
 
         ]
+    },{
+      title: "Having a control on your version control — Part 2",
+      publishedDate: "2022-01-19 17:06:05",
+      thumbnail: 
+          "https://cdn-images-1.medium.com/max/1024/0*YQteqcS9WmDU3Adl",
+      description: "Having a control on your version control — Part 2. Now that we have some knowledge about Git, let’s jump right in with the basic commands to get started with Git.",
+      url: "https://medium.com/@ksaurav0211/having-a-control-on-your-version-control-part-2-cc3a94f7e84f",
+      tags:[
+          "coding",
+          "version-control",
+          "git",
+          "software-development",
+          "github"
+      ]
     }
   ];

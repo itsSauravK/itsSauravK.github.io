@@ -106,6 +106,21 @@ export const projects = [
       url: "https://github.com/itsSauravK/blogs",
       id: "blogwebsite",
     },
+    {
+      title: "Kickstarter-using-Ethereum",
+      details:"A blockchain based web application where users can create campaign and receive contributions from other users. If the user wants to spend the contributed ether, he has to create a request which needs to be approved by maximum contributors",
+      category: "Blockchain",
+      technologies: [
+        "Solidity",
+        "Smart Contracts",
+        "Mocha",
+        "web3.js",
+        "ReactJS",
+        "NextJS"
+      ],
+      url:"https://github.com/itsSauravK/Kickstarter-using-ethereum",
+      id:"Kickstarter-Using-Ethereum"
+    }
   ];
   // Populated using the API below:
   // https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@ksaurav0211

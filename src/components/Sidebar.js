@@ -91,7 +91,7 @@ function Sidebar(props) {
       value: "Email",
       color: "darkgreen",
       icon: <EmailIcon sx={{ color: "#213E40" }} />,
-      url: "",
+      url: "mailto:ksaurav0211@gmail.com",
     },
   ];
 
@@ -160,11 +160,9 @@ function Sidebar(props) {
               value={item.value}
               icon={item.icon}
               onClick={() => {
-                if (item.id === "Email") {
-                  setOpenEmailDialog(true);
-                } else {
+                
                   window.open(item.url, "_blank");
-                }
+                
               }}
             />
           ))}

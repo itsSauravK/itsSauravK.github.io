@@ -1,22 +1,5 @@
 export const projects = [
-    {
-      title: "YelpCamp",
-      details:
-        "A campground reservation portal to help users find available campgrounds and view their prices. Users can post/edit their campgrounds as well as comment on other campgrounds.",
-      technologies: [
-        "Bootstrap3",
-        "NodeJS",
-        "MongoDB",
-        "PassportJS",
-        "MomentJS",
-        "ExpressJS",
-        "REST",
-      ],
-      category: "Web Development",
-      images: [],
-      url: "https://github.com/itsSauravK/YelpCamp",
-      id: "yelpcamp",
-    },
+   
     {
       title: "Online Vehicle Requisition System",
       details:
@@ -25,7 +8,7 @@ export const projects = [
       technologies: [
           "ReactJS",
           "ReduxJS",
-          "NodeJS",
+          "Node.js",
           "MongoDB",
           "ExpressJS",
           "Cloudinary",
@@ -33,7 +16,7 @@ export const projects = [
           "ThreeJS",
           "MailTrap"
       ],
-      url: "",
+      url: "https://github.com/itsSauravK/Online-Vehicle-Requisition-System",
       id: "VehicleSystem",
     },
   
@@ -45,7 +28,7 @@ export const projects = [
       url: "",
       id: "E-Commerce Website",
       technologies: [
-          "NodeJS",
+          "Node.js",
           "ReactJS",
           "ReduxJS",
           "ExpressJS",
@@ -60,7 +43,7 @@ export const projects = [
         "Photo-sharing website for photographers wherein they can create their profile by signing up and can post photos. They can store photos in a gallery and share/commentThey can comment on photos",
       technologies: [
         "Bootstrap4",
-        "NodeJS",
+        "Node.js",
         "MongoDB",
         "ExpressJS",
         "REST",
@@ -80,7 +63,7 @@ export const projects = [
       category: "Blockchain",
       technologies: [
           "ReactJS",
-          "NodeJS",
+          "Node.js",
           "ExpressJS",
           "MongoDB",
           "Ethereum-Blockchain",
@@ -90,22 +73,7 @@ export const projects = [
       url: "",
       id: "Voting system",
     },
-    {
-      title: "Blog Website",
-      details: "Full stack website where users can store and post their blogs",
-      technologies: [
-        "Semantic UI",
-        "NodeJS",
-        "MongoDB",
-        "ExpressJS",
-        "REST",
-        "Express Sanitizer",
-      ],
-      category: "Web Development",
-      images: [],
-      url: "https://github.com/itsSauravK/blogs",
-      id: "blogwebsite",
-    },
+    
     {
       title: "Kickstarter-using-Ethereum",
       details:"A blockchain based web application where users can create campaign and receive contributions from other users. If the user wants to spend the contributed ether, he has to create a request which needs to be approved by maximum contributors",
@@ -120,7 +88,41 @@ export const projects = [
       ],
       url:"https://github.com/itsSauravK/Kickstarter-using-ethereum",
       id:"Kickstarter-Using-Ethereum"
-    }
+    },
+    {
+      title: "YelpCamp",
+      details:
+        "A campground reservation portal to help users find available campgrounds and view their prices. Users can post/edit their campgrounds as well as comment on other campgrounds.",
+      technologies: [
+        "Bootstrap3",
+        "Node.js",
+        "MongoDB",
+        "PassportJS",
+        "MomentJS",
+        "ExpressJS",
+        "REST",
+      ],
+      category: "Web Development",
+      images: [],
+      url: "https://github.com/itsSauravK/YelpCamp",
+      id: "yelpcamp",
+    },
+    {
+      title: "Blog Website",
+      details: "Full stack website where users can store and post their blogs",
+      technologies: [
+        "Semantic UI",
+        "Node.js",
+        "MongoDB",
+        "ExpressJS",
+        "REST",
+        "Express Sanitizer",
+      ],
+      category: "Web Development",
+      images: [],
+      url: "https://github.com/itsSauravK/blogs",
+      id: "blogwebsite",
+    },
   ];
   // Populated using the API below:
   // https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@ksaurav0211

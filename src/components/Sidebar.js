@@ -124,7 +124,7 @@ function Sidebar(props) {
         <div className="sidebar-location">
           <LocationOnIcon fontSize="small" filled="#213E40" />
           <Typography variant="body2" color="#213E40">
-            Mumbai, India
+            Stony Brook, New York
           </Typography>
         </div>
       </div>

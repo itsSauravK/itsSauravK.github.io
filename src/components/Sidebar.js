@@ -24,7 +24,7 @@ import LocationOnIcon from "@mui/icons-material/LocationOn";
 import EmailIcon from "@mui/icons-material/Email";
 import ArticleRoundedIcon from "@mui/icons-material/ArticleRounded";
 import { useHistory, useLocation } from "react-router-dom";
-import profilePic from "../constants/assets/profile.jpg"
+import profilePic from "../constants/assets/profile.jpeg"
 
 import "../App.css";
 

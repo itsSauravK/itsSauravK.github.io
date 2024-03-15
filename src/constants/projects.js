@@ -21,6 +21,37 @@ export const projects = [
       id: 'Voting system',
    },
    {
+      title: 'RecipeGemini - Open Source MLH Hackathon',
+      details:
+         'Developed a Recipe Finder application, employing a Spring Boot backend, React frontend, and MongoDB database. The application allows users to generate, update and save recipes for future reference. Integrated the Gemini API into the project, enabling users to generate recipes based on the name of food they enter or the image they upload. Additionally, users can customize the generated recipes to suit their preferences',
+      category: 'Web Development, Generative AI',
+      technologies: [
+         'ReactJS',
+         'Spring Boot',
+         'MongoDB',
+         'Tailwind CSS',
+         'Generative AI',
+         'Prompt Engineering'
+      ],
+      url: 'https://github.com/itsSauravK/RecipeGemini',
+      id: 'RecipeGemini',
+
+   },
+   {
+      title: 'Music Genie',
+      details: 'Conducted a comprehensive analysis of the evolving musical land scape over time through visualizations and created a genre classification model. Leveraged Spotify API for track retrieval according to genres and scraped data from Playback.fm. Created a Gradient Boosting model to classify songs into genres, utilizing lyrical features extracted from lyrics and Spotify',
+      category: 'Data Science, Machine Learning',
+      technologies: [
+         'Python',
+         'Spotify API',
+         'BeautifulSoup',
+         'Matplotlib',
+         'SQL',
+         'Visualization',
+         'Data Science'
+      ],
+   },
+   {
       title: 'Online Vehicle Requisition System',
       details:
          'A full stack web application, made for my 3rd year mini project in group of two, where users can customize their vehicle, view the 3d models and purchase it using RazorPay after uploading identity details which can be verified by admin. The website also has has user dashboard where users can see all the past orders and admin dashboard where admin can see all the users and see all the orders placed',

@@ -1,5 +1,20 @@
 export const blogs = [
     {
+      title: "Stored Procedures in DB2 — SQL Introduction",
+      publishedDate: "2023-03-27 23:24:36",
+      thumbnail: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iWG5nt6cisEk7oXg04qwpQ.png",
+      description:
+        "Stored Procedures are an important concept in SQL. We can perform all the required tasks using SQL queries, but what if the data is extremely large, and you have to run the same query repeatedly? In those cases how will we optimize the performance? The answer is Stored Procedures! Stored Procedures are compiled programs tha..." ,
+      url: "https://medium.com/towardsdev/stored-procedures-in-db2-sql-introduction-2141e1d26e71",
+      tags: [
+        "stored-procedure",
+        "computer-science",
+        "db2",
+        "database",
+        "sql"
+      ],
+    },
+    {
       title: "Linked List Types",
       publishedDate: "2021-10-21 14:44:22",
       thumbnail: "https://cdn-images-1.medium.com/max/584/0*uLjCqJQUUVwq0Gng",
